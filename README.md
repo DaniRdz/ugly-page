@@ -1,4 +1,4 @@
-#UGLY PAGE
+# UGLY PAGE
 
 > this is a simple page with simple dark mode
 
